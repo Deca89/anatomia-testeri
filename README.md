@@ -17,3 +17,7 @@ Halutaan myös tarjota mahdollisuus lukea syötettyä materiaalia sellaisenaan, 
 * Kokonaisuuksien syöttö ja muokkaus
 * Alikokonaisuuksien syöttö ja muokkaus
 * Kuvien syöttö ja muokkaus
+
+## Kaavio:
+
+https://dbdiagram.io/d/5e5a577e4495b02c3b879714
